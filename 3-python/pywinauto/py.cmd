@@ -1,2 +1,0 @@
-python winauto.py
-pause
